@@ -1,0 +1,21 @@
+.fa-star, .fa-star-half{
+    color:blue;
+}
+.id-text{
+
+    float: right;
+}
+
+.badge{
+
+    width: 100px;
+    border: 10px ;
+    padding: 10px;
+    margin: 5px;
+    background-color: azure;
+    
+  }
+}
+.text-black{
+    color: #000;
+}
